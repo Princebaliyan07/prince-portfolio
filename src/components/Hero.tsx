@@ -53,8 +53,8 @@ export function Hero() {
                 Contact Me
               </a>
               <a
-                 href="public/My_Resume.pdf"
-                download="Prince_Baliyan_Resume.pdf"
+                 href="/My_Resume.pdf"
+                download="Prince_Baliyan_Resume.docx"
                 className="inline-flex items-center gap-2 rounded-xl px-5 py-3 text-sm font-medium text-muted-foreground hover:text-foreground transition">
               <Download className="h-4 w-4" /> Resume
               </a>
